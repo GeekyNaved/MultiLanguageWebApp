@@ -1,0 +1,9 @@
+{
+    "title": "Flerspråkig app",
+    "label": "Välj ett annat språk!",
+    "about": "Om mig",
+    "home": "Hem",
+    "user": "Mitt namn är: {{name}}",
+    "field1": "Fält 1",
+    "field2": "Fält 2"
+}
